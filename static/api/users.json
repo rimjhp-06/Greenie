@@ -1,0 +1,24 @@
+[
+    {
+      "id": 1,
+      "username": "john_doe",
+      "email": "john.doe@example.com",
+      "phone": "123-456-7890",
+      "creationDate": "2023-01-01"
+    },
+    {
+      "id": 2,
+      "username": "jane_smith",
+      "email": "jane.smith@example.com",
+      "phone": "987-654-3210",
+      "creationDate": "2023-01-05"
+    },
+    {
+      "id": 3,
+      "username": "bob_jones",
+      "email": "bob.jones@example.com",
+      "phone": "555-123-4567",
+      "creationDate": "2023-02-10"
+    }
+  ]
+  
